@@ -1,7 +1,6 @@
 package deepspace;
 
 /**
- *
  * @author miguelangelmc
  */
 public class DeepSpace {
