@@ -1,1 +1,1 @@
-Java version of DeepSpace
+DeepSpace Project implemented in Java as well as Ruby
